@@ -1,0 +1,10 @@
+*.tar
+*.csv
+*.tgz
+__pycache__
+*.pyc
+.ipynb_checkpoints
+*.dat
+*.h5
+*.hdf5
+*.pdf
